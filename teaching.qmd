@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+# subtitle: "I teach."
+title-block-banner: false
+---
+
+
+
+::: {.grid}
+
+::: {.g-col-12}
+
+### Introduction to C++
+
+This course provides an introduction to the C++ programming language and some basic algorithms such as binary search, prefix function and KMP algorithm.
+
+- [2025-2026 (placeholder)](https://www.google.com)
+- [2024-2025 (placeholder)](https://www.google.com)
+
+:::
+
+::: {.g-col-12}
+
+### Algorithms and data structures
+
+This course covers fundamental algorithms and their applications, including sorting algorithms, graph algorithms and RMQ.
+
+- [2025-2026 (placeholder)](https://www.google.com)
+- [2024-2025 (placeholder)](https://www.google.com)
+
+:::
+
+:::

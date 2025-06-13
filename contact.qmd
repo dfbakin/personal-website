@@ -1,0 +1,43 @@
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+image: "files/images/profile.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: jolla
+#   image-width: 70%
+  links:
+    - icon: github
+      text: GitHub
+      href: https://www.github.com/dfbakin
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:denis.bakin5@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+      target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com
+    #   target: _blank
+
+    - icon: telegram
+      text: Telegram
+      href: https://t.me/dfbakin
+      target: _blank
+---
+
+<center>
+
+:::{#hero-heading}
+:::
+
+</center>

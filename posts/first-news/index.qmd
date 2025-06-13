@@ -1,0 +1,18 @@
+---
+title: "News item"
+description: "About new item"
+author: "News"
+date: "2024-06-24"
+categories: [news]
+image: "/files/images/placeholder1.jpg"
+#css: /custom.css
+#draft: true
+---
+
+
+# First news that website is under construction
+
+Still dreaming about teaching many courses
+
+<!--Include social share buttons-->
+{{< include /includes/_socialshare.qmd >}}

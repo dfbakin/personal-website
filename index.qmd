@@ -1,0 +1,121 @@
+---
+title: "Denis Bakin"
+image: "files/images/profile.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: github
+      text: GitHub
+      href: https://www.github.com/dfbakin
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:denis.bakin5@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+      target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com
+    #   target: _blank
+
+    - icon: telegram
+      text: Telegram
+      href: https://t.me/dfbakin
+      target: _blank
+
+# listing:
+#   - id: recent-posts
+#     contents:
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort:
+#       - "date desc"
+#       - "title asc"
+---
+
+:::{#hero-heading}
+
+# Hello! I'm Denis Bakin
+
+- **Student at the Higher School of Economics**
+- Pursuing a Bachelor's degree in **Computer Science**
+- Passionate about **Machine Learning** and **Computer Vision**
+
+---
+
+## Teaching
+
+**Sept 2024 – Present**  
+**HSE Lyceum**  
+*Computer Science Teacher*
+
+- Designed and developed a variety of programming problems
+- Created comprehensive teaching materials and resources to support student learning
+- Prepared and conducted exams to assess student understanding and progress
+- Assisted in developing programming problems for the enrollment examination process
+
+**Sept 2022 – Present**  
+**Private Practice**  
+*Tutor*
+
+- Mathematics, programming, and computer science tutor for high school students
+- State exam preparation for high school students
+
+
+## Programming
+- **Programming Languages**: C++, Python
+- **Frameworks & Libraries**: Torch, OpenCV
+- **Tools & Platforms**: ROS2, Docker, Git, GitHub Actions
+
+---
+
+## Languages I Speak
+- **Russian**: Native
+- **English**: C1
+
+---
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dfbakin&theme=tokyonight)
+
+---
+
+## My CVs
+- [CV (English)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_eng.pdf)
+- [CV (Russian)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_rus.pdf)
+
+---
+
+## Contact Me
+- **Telegram**: [@dfbakin](https://t.me/dfbakin)
+- **Email**: [denis.bakin5@gmail.com](mailto:denis.bakin5@gmail.com)
+
+---
+
+
+<!-- :::
+
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p> -->
