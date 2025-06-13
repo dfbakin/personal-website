@@ -32,7 +32,7 @@ website:
 
     right:
       - text: CV
-        href: https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_eng.pdf
+        href: resources/CV_eng.pdf
       - icon: github
         href: https://github.com/dfbakin/personal-website.git
         target: _blank

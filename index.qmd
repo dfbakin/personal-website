@@ -98,8 +98,8 @@ about:
 ---
 
 ## My CVs
-- [CV (English)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_eng.pdf)
-- [CV (Russian)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_rus.pdf)
+- [CV (English)](resources/CV_eng.pdf)
+- [CV (Russian)](resources/CV_rus.pdf)
 
 ---
 

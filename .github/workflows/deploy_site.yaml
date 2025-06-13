@@ -18,7 +18,10 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Pull website resources
-        run: dvc pull resources.dvc
+        run: |
+          dvc pull resources.dvc
+          cd resources && wget https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_eng.pdf
+          wget https://raw.githubusercontent.com/dfbakin/dfbakin/master/CV_rus.pdf
 
       - name: Render Quarto files
         uses: quarto-dev/quarto-actions/render@v2
