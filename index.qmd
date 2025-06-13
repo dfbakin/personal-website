@@ -1,6 +1,6 @@
 ---
 title: "Denis Bakin"
-image: "files/images/profile.jpg"
+image: "resources/images/profile.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
