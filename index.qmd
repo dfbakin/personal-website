@@ -62,8 +62,8 @@ about:
 
 ## Teaching
 
-**Sept 2024 – Present**  
-**HSE Lyceum**  
+**Sept 2024 – Present** \
+**HSE Lyceum** \
 *Computer Science Teacher*
 
 - Designed and developed a variety of programming problems
@@ -71,8 +71,8 @@ about:
 - Prepared and conducted exams to assess student understanding and progress
 - Assisted in developing programming problems for the enrollment examination process
 
-**Sept 2022 – Present**  
-**Private Practice**  
+**Sept 2022 – Present** \
+**Private Practice** \
 *Tutor*
 
 - Mathematics, programming, and computer science tutor for high school students
