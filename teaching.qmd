@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-# subtitle: "I teach."
 title-block-banner: false
 ---
 
@@ -15,7 +14,7 @@ title-block-banner: false
 This course provides an introduction to the C++ programming language and some basic algorithms such as binary search, prefix function and KMP algorithm.
 
 - [2025-2026 (placeholder)](https://www.google.com)
-- [2024-2025 (placeholder)](https://www.google.com)
+- [2024-2025](https://cpp24.dfbakin.com)
 
 :::
 
