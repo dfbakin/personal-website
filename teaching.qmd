@@ -13,7 +13,8 @@ title-block-banner: false
 
 This course provides an introduction to the C++ programming language and some basic algorithms such as binary search, prefix function and KMP algorithm.
 
-- [2025-2026 (placeholder)](https://www.google.com)
+- [2025-2026 (advanced groups)](https://cpp-advanced25.dfbakin.com)
+- [2025-2026 (regular groups)](https://cpp25.dfbakin.com)
 - [2024-2025](https://cpp24.dfbakin.com)
 
 :::
@@ -24,8 +25,8 @@ This course provides an introduction to the C++ programming language and some ba
 
 This course covers fundamental algorithms and their applications, including sorting algorithms, graph algorithms and RMQ.
 
-- [2025-2026 (placeholder)](https://www.google.com)
-- [2024-2025 (placeholder)](https://www.google.com)
+- [2025-2026](https://algo25.dfbakin.com)
+<!-- - [2024-2025 (placeholder)](https://www.google.com) -->
 
 :::
 
